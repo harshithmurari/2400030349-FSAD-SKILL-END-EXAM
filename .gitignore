@@ -1,0 +1,13 @@
+# Eclipse and IDE folders
+.settings/
+.vscode/
+
+# Build output
+target/
+
+# Maven
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
